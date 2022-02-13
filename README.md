@@ -13,16 +13,16 @@ The website also allows the user to filter on multiple choices. As the user goes
 Let's look at an example.
 
 The user opens the website, and sees the complete list of all sightings.
-![full_table](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/retirement_titles.png)
+![full_table](https://github.com/abhi82git/UFOs/blob/2b9366bb011b59fd74f515e1810620e3f719be86/static/images/Full_Table.png)
 
 The user decides that he wants to see the details for all California UFO sightings. So they enter ca in the state text field. The table filters on ca and displays only sightings for California.
-![ca_sightings](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/retirement_titles.png)
+![ca_sightings](https://github.com/abhi82git/UFOs/blob/2b9366bb011b59fd74f515e1810620e3f719be86/static/images/California_Sightings.png)
 
 Since there are so many for CA, the users decides that they want see the sightings just for their their home town - San Diego. So, they enter the value in city text field and press enter. The table further filters on city value showing results for San Diego.
-![San_Diego_sightings](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/retirement_titles.png)
+![San_Diego_sightings](https://github.com/abhi82git/UFOs/blob/2b9366bb011b59fd74f515e1810620e3f719be86/static/images/San_Diego_Sightings.png)
 
 Now, let's say the user wants to see how many UFO sightings for a particular shape - triangle. The list further filters down to display only triangle sightings in San Diego, California.
-![triangle_sightings_in_San_Diego](https://github.com/abhi82git/Pewlett-Hackard-Analysis/blob/63607dc932313d9d69cf593cf369b3dbfbdc32e0/Resources/retirement_titles.png)
+![triangle_sightings_in_San_Diego](https://github.com/abhi82git/UFOs/blob/2b9366bb011b59fd74f515e1810620e3f719be86/static/images/triangle_sightings_in_San_Diego.png)
 
 ## Summary
 
